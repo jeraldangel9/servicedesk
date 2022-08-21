@@ -49,7 +49,6 @@ import {
     },
     // dito yung value data 
     barValue: 14,
-    value: "25",
     png: UilPackage,
     series: [
       {
@@ -62,60 +61,75 @@ import {
   //--------------------
 
   {
-    title: "Pending Deployment",
+    title: "Available Computer and Unit",
     color: {
       backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
       boxShadow: "0px 10px 20px 0px #e0c6f5",
     },
     // dito yung value data 
     barValue: 80,
-    value: "25",
     png: UilPackage,
     series: [
       {
-        name: "Pending DeploymentSales",
+        name: "Available Computer and Unit",
         data: [31, 40, 28, 51, 42, 109, 100],
       },
     ],
   },
 
   {
-    title: "Pending Deployment",
+    title: "Total Pending Techcon",
     color: {
       backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
       boxShadow: "0px 10px 20px 0px #e0c6f5",
     },
     // dito yung value data 
     barValue: 35,
-    value: "25",
     png: UilPackage,
     series: [
       {
-        name: "Pending DeploymentSales",
+        name: "Total Pending Techcon",
         data: [31, 40, 28, 51, 42, 109, 100],
       },
     ],
   },
 
   {
-    title: "Pending Deployment",
+    title: "Total Pending Rollout",
     color: {
       backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
       boxShadow: "0px 10px 20px 0px #e0c6f5",
     },
     // dito yung value data 
     barValue: 36,
-    value: "25",
     png: UilPackage,
     series: [
       {
-        name: "Pending DeploymentSales",
+        name: "Total Pending Rollout",
         data: [31, 40, 28, 51, 42, 109, 100],
       },
     ],
   },
   {
-    title: "Pending Deployment",
+    title: "Total of Warrant ",
+    color: {
+      backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
+      boxShadow: "0px 10px 20px 0px #e0c6f5",
+    },
+    // dito yung value data 
+    barValue: 70,
+    png: UilPackage,
+    series: [
+      {
+        name: "Total of Warrant ",
+        data: [31, 40, 28, 51, 42, 109, 100],
+      },
+    ],
+  },
+
+
+  {
+    title: "Total Pending Rollout",
     color: {
       backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
       boxShadow: "0px 10px 20px 0px #e0c6f5",
@@ -126,15 +140,14 @@ import {
     png: UilPackage,
     series: [
       {
-        name: "Pending DeploymentSales",
+        name: "Total Pending Rollout",
         data: [31, 40, 28, 51, 42, 109, 100],
       },
     ],
   },
 
-
   {
-    title: "Pending Deployment",
+    title: "Total Repair",
     color: {
       backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
       boxShadow: "0px 10px 20px 0px #e0c6f5",
@@ -145,7 +158,7 @@ import {
     png: UilPackage,
     series: [
       {
-        name: "Pending DeploymentSales",
+        name: "Total Repair",
         data: [31, 40, 28, 51, 42, 109, 100],
       },
     ],
