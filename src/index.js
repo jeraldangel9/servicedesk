@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import HEHE from './pages/HEHE';
 
 ReactDOM.render(
-    <App />,
+    <HEHE />,
   document.getElementById('root')
 );
 
