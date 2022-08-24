@@ -1,8 +1,12 @@
 .Cards{
-    display: flex;
     gap: 10px;
+    display: flex;
+    /* flex-wrap: wrap; */
+
 }
 
+
 .parentContainer{
-    width: 100%;
+    /* width: calc(100% /); */
+ width: 100%; 
 }

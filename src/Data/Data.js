@@ -19,22 +19,27 @@ import {
     {
         icon: UilEstate,
         heading: "Dashboard",
+        link: "dashboard"
       },
       {
         icon: UilFileSearchAlt,
-        heading: "Pullout tackert",
+        heading: "Pullout Tracker",
+        link: "pullout"
       },
       {
         icon: UilDesktopAlt,
         heading: "Computer and Device",
+        link: "computer-and-device"
       },
       {
         icon: UilPackage,
-        heading: 'Techcon Tracker'
+        heading: 'Techcon Tracker',
+        link: "Techcon-Tracker"
       },
       {
         icon: UilShieldCheck,
-        heading: 'Warranty List'
+        heading: 'Warranty List',
+        link: "Warranty-List"
       },
 
  ];
@@ -101,7 +106,7 @@ import {
       boxShadow: "0px 10px 20px 0px #e0c6f5",
     },
     // dito yung value data 
-    barValue: 36,
+    barValue: 46,
     png: UilPackage,
     series: [
       {
@@ -153,7 +158,7 @@ import {
       boxShadow: "0px 10px 20px 0px #e0c6f5",
     },
     // dito yung value data 
-    barValue: 70,
+    barValue: 30,
     value: "25",
     png: UilPackage,
     series: [

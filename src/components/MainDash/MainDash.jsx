@@ -7,7 +7,6 @@ const MainDash = () => {
     <div className="MainDash">
       <h1>Dashboard</h1>
       <Cards/>
-      <h2>Recent Edit</h2>
       <Table/>
     </div>
   );
